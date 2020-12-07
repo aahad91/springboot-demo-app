@@ -1,10 +1,10 @@
-package com.test.demo;
+package com.test.empmgmt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class EmpmgmtApplicationTests {
 
 	@Test
 	void contextLoads() {
